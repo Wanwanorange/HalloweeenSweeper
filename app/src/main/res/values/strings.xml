@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HalloweenSweeper</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="txt_game_restart_message">Restart</string>
+    <string name="txt_restart">Restart</string>
+    <string name="txt_touched">Touched %1$s</string>
+    <string name="txt_flag">Flag Mode %1$s</string>
+    <string name="txt_lose">You lose!</string>
+    <string name="txt_win">Yay, you win!</string>
+</resources>
